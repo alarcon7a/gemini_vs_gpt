@@ -11,4 +11,5 @@ Esta es una interfaz para medir el rendimiento de Gemini Pro VS Gpt4 a nivel de 
 
 ## Notebook
 🔽🔽🔽🔽🔽🔽🔽🔽 
+
 [Gemini vs GPT4 - Notebook](Gemini_vs_GPT4.ipynb)
