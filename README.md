@@ -14,3 +14,8 @@ Esta es una interfaz para medir el rendimiento de Gemini Pro VS Gpt4 a nivel de 
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
 [Gemini vs GPT4 - Notebook](Gemini_vs_GPT4.ipynb)
+
+## Youtube 📺
+🔽🔽🔽🔽🔽🔽🔽🔽 
+
+https://www.youtube.com/watch?v=anUf9la-E0E&list=PLgQnGGtCss_hZEHA7aM_dYkn65es1ZzTI
